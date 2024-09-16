@@ -1,0 +1,14 @@
+{
+  "name": "1.0-autenticacion_autorizacion",
+  "version": "1.0.0",
+  "description": "aplication about authenticacion and autorization for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Carmona Zapata",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

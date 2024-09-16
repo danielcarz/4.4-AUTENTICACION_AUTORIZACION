@@ -1,15 +1,17 @@
 const express = require('express');
-const router = express.router()
+
+
+const  controllerTesting = ( req, res) => {
+
+    res.send(' hello from controller authentication ');
 
 
 
-router.get( '/', (req, res) => {
+}
+
+module.exports = {
+
+    controllerTesting,
 
 
-
-    res.send("this a htt method from authenitcation");
-
-
-} )
-
-module.exports = router;
+};

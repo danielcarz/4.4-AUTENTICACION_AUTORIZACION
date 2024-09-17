@@ -36,7 +36,7 @@ Esta subaplicación proporciona un conjunto de funcionalidades esenciales para l
 - **bcrypt** para la encriptación segura de contraseñas.
 
 ## 🗂 Estructura del Proyecto
-
+   
 ```bash
 📁 user-management/
 ├── 📁 controllers/         # Controladores de las rutas
